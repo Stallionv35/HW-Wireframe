@@ -1,1 +1,44 @@
-
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+#middle-header {
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+#middle-nav {
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px
+}
+#section {
+    background: #ebebeb;
+    width: 495px;
+    height: 300px;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+#aside {
+    background: #ebebeb;
+    width: 445px;
+    height: 300px;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: right;
+}
+#footer {
+    background: #ebebeb;
+    padding: 20px;
+    float: right;
+    text-align: center;
+    width: 960px;
+}
